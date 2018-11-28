@@ -2,7 +2,6 @@
 #include"list.h"
 #include"iostream"
 using namespace std;
-¼Ö´ó½ã´ó½ãµÄ
 list::list() {
 	for (int i = 0;i < MAXSIZE;i++) {
 		seqlist[i] = 0;
