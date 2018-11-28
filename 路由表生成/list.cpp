@@ -63,3 +63,6 @@ int list::listget(int x) {
 }
 int list::getsize() { return size; }
 int list::getv(int v) { return seqlist[v]; }
+int main() {
+	cout << "liujiajia";
+}
