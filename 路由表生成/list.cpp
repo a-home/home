@@ -1,6 +1,7 @@
 #include"stdafx.h"
 #include"list.h"
 #include"iostream"
+ÄãºÃ
 using namespace std;
 list::list() {
 	for (int i = 0;i < MAXSIZE;i++) {
